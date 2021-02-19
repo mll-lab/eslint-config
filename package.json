@@ -1,0 +1,61 @@
+{
+  "name": "@mll-lab/eslint-config",
+  "version": "0.0.1",
+  "description": "The shareable eslint configuration of MLL",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mll-lab/eslint-config.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "Benedikt Franke <benedikt@franke.tech>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mll-lab/eslint-config/issues"
+  },
+  "homepage": "https://github.com/mll-lab/eslint-config/issues",
+  "peerDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.14.0",
+    "@typescript-eslint/parser": "^4.14.0",
+    "eslint": "^7.18.0",
+    "eslint-import-resolver-webpack": "^0.13.0",
+    "eslint-plugin-cypress": "^2.11.2",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-prettier": "^3.3.1",
+    "eslint-plugin-react": "^7.22.0",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "eslint-plugin-redux-saga": "^1.2.1",
+    "eslint-plugin-testing-library": "^3.10.1",
+    "eslint-plugin-unused-imports": "^1.0.1",
+    "prettier": "^2.2.1",
+    "typescript": "^4.1.5"
+  },
+  "scripts": {
+    "lint": "eslint --ext .js .",
+    "lint:fix": "yarn run lint --fix"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "4.14.0",
+    "@typescript-eslint/parser": "4.14.0",
+    "eslint": "7.18.0",
+    "eslint-config-airbnb": "18.2.1",
+    "eslint-config-airbnb-base": "14.2.1",
+    "eslint-config-prettier": "7.2.0",
+    "eslint-import-resolver-webpack": "0.13.0",
+    "eslint-plugin-cypress": "2.11.2",
+    "eslint-plugin-import": "2.22.1",
+    "eslint-plugin-jsx-a11y": "6.4.1",
+    "eslint-plugin-prettier": "3.3.1",
+    "eslint-plugin-react": "7.22.0",
+    "eslint-plugin-react-hooks": "4.2.0",
+    "eslint-plugin-redux-saga": "1.2.1",
+    "eslint-plugin-testing-library": "3.10.1",
+    "eslint-plugin-unused-imports": "1.0.1",
+    "prettier": "2.2.1",
+    "typescript": "4.1.5"
+  }
+}
