@@ -1,12 +1,12 @@
 module.exports = {
   parser: '@typescript-eslint/parser',
   extends: [
-    'airbnb',
+    'airbnb-base',
     'plugin:prettier/recommended',
     'prettier/@typescript-eslint',
     'prettier/babel',
   ],
-  plugins: ['@typescript-eslint', 'prettier', 'unused-imports'],
+  plugins: ['@typescript-eslint', 'import', 'prettier', 'unused-imports'],
   rules: {
     '@typescript-eslint/array-type': ['error', { default: 'generic' }],
     '@typescript-eslint/ban-types': 'error',

@@ -1,6 +1,6 @@
 {
   "name": "@mll-lab/eslint-config",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "The shareable eslint configuration of MLL",
   "main": "index.js",
   "repository": {
@@ -21,18 +21,18 @@
     "@typescript-eslint/eslint-plugin": "^4.14.0",
     "@typescript-eslint/parser": "^4.14.0",
     "eslint": "^7.18.0",
-    "eslint-config-airbnb": "^18.2.1",
     "eslint-config-airbnb-base": "^14.2.1",
     "eslint-config-prettier": "^7.2.0",
     "eslint-plugin-import": "^2.22.1",
-    "eslint-plugin-jsx-a11y": "^6.4.1",
     "eslint-plugin-prettier": "^3.3.1",
     "eslint-plugin-unused-imports": "^1.0.1",
     "typescript": "^3 || ^4"
   },
   "peerDependencies": {
+    "eslint-config-airbnb": "^18.2.1",
     "eslint-import-resolver-webpack": "^0.13.0",
     "eslint-plugin-cypress": "^2.11.2",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
     "eslint-plugin-react": "^7.22.0",
     "eslint-plugin-react-hooks": "^4.2.0",
     "eslint-plugin-redux-saga": "^1.2.1",
@@ -44,8 +44,10 @@
     "lint:fix": "yarn run lint --fix"
   },
   "devDependencies": {
+    "eslint-config-airbnb": "^18.2.1",
     "eslint-import-resolver-webpack": "^0.13.0",
     "eslint-plugin-cypress": "^2.11.2",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
     "eslint-plugin-react": "^7.22.0",
     "eslint-plugin-react-hooks": "^4.2.0",
     "eslint-plugin-redux-saga": "^1.2.1",
