@@ -26,6 +26,7 @@ module.exports = {
     camelcase: 'off',
     'class-methods-use-this': 'off',
     'comma-dangle': ['error', 'always-multiline'],
+    'consistent-return': 'off', // Not necessary with TypeScript
     'func-names': ['error', 'always'],
     'import/extensions': ['error', 'never'],
     'import/imports-first': 'error',
