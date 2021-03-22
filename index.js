@@ -1,12 +1,7 @@
 module.exports = {
   parser: '@typescript-eslint/parser',
-  extends: [
-    'airbnb-base',
-    'plugin:prettier/recommended',
-    'prettier/@typescript-eslint',
-    'prettier/babel',
-  ],
-  plugins: ['@typescript-eslint', 'import', 'prettier', 'unused-imports'],
+  extends: ['airbnb-base', 'plugin:prettier/recommended'],
+  plugins: ['@typescript-eslint', 'import', 'unused-imports'],
   rules: {
     '@typescript-eslint/array-type': ['error', { default: 'generic' }],
     '@typescript-eslint/ban-types': 'error',
@@ -57,7 +52,6 @@ module.exports = {
     'object-shorthand': 'error',
     'prefer-template': 'error',
     'require-yield': 'off',
-    // Should be -ts, but that deletes types https://github.com/sweepline/eslint-plugin-unused-imports/issues/22
-    'unused-imports/no-unused-imports': 'error',
+    'unused-imports/no-unused-imports-ts': 'error',
   },
 };
