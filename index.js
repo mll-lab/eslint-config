@@ -5,6 +5,7 @@ module.exports = {
   rules: {
     '@typescript-eslint/array-type': ['error', { default: 'generic' }],
     '@typescript-eslint/ban-types': 'error',
+    '@typescript-eslint/consistent-type-definitions': ['error', 'type'],
     '@typescript-eslint/method-signature-style': 'error',
     '@typescript-eslint/naming-convention': [
       'error',
