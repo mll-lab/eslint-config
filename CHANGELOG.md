@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/mll-lab/eslint-config/compare/v1.0.1...v1.1.0) (2021-03-26)
+
+
+### Features
+
+* Enforce consistently using type over interface ([7730523](https://github.com/mll-lab/eslint-config/commit/773052310ba3e54904817b53df38570b4ac1f917))
+
 ## [1.0.1](https://github.com/mll-lab/eslint-config/compare/v1.0.0...v1.0.1) (2021-03-22)
 
 
