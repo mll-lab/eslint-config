@@ -1,10 +1,13 @@
 module.exports = {
   parser: '@typescript-eslint/parser',
-  extends: ['airbnb-base', 'plugin:prettier/recommended'],
-  plugins: ['@typescript-eslint', 'import', 'unused-imports'],
+  extends: [
+    'airbnb-base',
+    'plugin:prettier/recommended',
+    'plugin:@typescript-eslint/recommended',
+  ],
+  plugins: ['import', 'unused-imports'],
   rules: {
     '@typescript-eslint/array-type': ['error', { default: 'generic' }],
-    '@typescript-eslint/ban-types': 'error',
     '@typescript-eslint/consistent-type-definitions': ['error', 'type'],
     '@typescript-eslint/method-signature-style': 'error',
     '@typescript-eslint/naming-convention': [
@@ -18,6 +21,7 @@ module.exports = {
       'error',
       { ignoreRestSiblings: true },
     ],
+
     'arrow-body-style': ['error', 'as-needed'],
     camelcase: 'off',
     'class-methods-use-this': 'off',
