@@ -21,12 +21,14 @@ module.exports = {
       'error',
       { ignoreRestSiblings: true },
     ],
+    '@typescript-eslint/switch-exhaustiveness-check': 'error',
 
     'arrow-body-style': ['error', 'as-needed'],
     camelcase: 'off',
     'class-methods-use-this': 'off',
     'comma-dangle': ['error', 'always-multiline'],
     'consistent-return': 'off', // Not necessary with TypeScript
+    'default-case': 'off', // Replaced by @typescript-eslint/switch-exhaustiveness-check
     'func-names': ['error', 'always'],
     'import/extensions': ['error', 'never'],
     'import/imports-first': 'error',
