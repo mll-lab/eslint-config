@@ -1,3 +1,11 @@
+# [1.4.0](https://github.com/mll-lab/eslint-config/compare/v1.3.1...v1.4.0) (2021-10-14)
+
+
+### Features
+
+* add switch-exhaustiveness-check ([6ec168c](https://github.com/mll-lab/eslint-config/commit/6ec168c6a80b85e766ddda81cb20fff1e6330b68))
+* disable import/no-unresolved ([5b2ab49](https://github.com/mll-lab/eslint-config/commit/5b2ab4977eff28e0fd57d3a0e75777c40c5f6a1d))
+
 ## [1.3.1](https://github.com/mll-lab/eslint-config/compare/v1.3.0...v1.3.1) (2021-10-14)
 
 
