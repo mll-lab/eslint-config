@@ -8,13 +8,16 @@ module.exports = {
   plugins: ['import', 'unused-imports'],
   rules: {
     '@typescript-eslint/array-type': ['error', { default: 'generic' }],
+    '@typescript-eslint/ban-ts-comment': 'off', // Sometimes we just need a way out
     '@typescript-eslint/consistent-type-definitions': ['error', 'type'],
+    '@typescript-eslint/explicit-module-boundary-types': 'off', // TODO consider reenabling this
     '@typescript-eslint/method-signature-style': 'error',
     '@typescript-eslint/naming-convention': [
       'error',
       { selector: 'class', format: ['PascalCase'] },
       { selector: 'enumMember', format: ['UPPER_CASE'] },
     ],
+    '@typescript-eslint/no-empty-functions': 'off', // Can be useful for no-op or defaults
     '@typescript-eslint/no-redeclare': 'error',
     '@typescript-eslint/no-shadow': 'error',
     '@typescript-eslint/no-unused-vars': [
