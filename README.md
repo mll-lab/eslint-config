@@ -16,7 +16,15 @@ Extend this configuration in your ESLint config:
   ],
 ```
 
-If you are using React:
+## React
+
+Add required peer dependencies:
+
+```
+yarn add --dev eslint-config-airbnb eslint-plugin-react eslint-plugin-react-hooks
+```
+
+Then add an extra entry to your ESLint config:
 
 ```json
   "extends": [
@@ -24,3 +32,4 @@ If you are using React:
     "@mll-lab/eslint-config/react",
   ],
 ```
+
