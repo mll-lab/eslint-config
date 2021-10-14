@@ -35,7 +35,7 @@ module.exports = {
     'import/newline-after-import': 'error',
     'import/no-extraneous-dependencies': 'off',
     'import/no-named-as-default': 'error',
-    'import/no-unresolved': 'error',
+    'import/no-unresolved': 'off', // Only works with webpack
     'import/no-webpack-loader-syntax': 'off',
     'import/order': [
       'error',
