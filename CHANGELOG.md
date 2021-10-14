@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/mll-lab/eslint-config/compare/v1.4.0...v1.5.0) (2021-10-14)
+
+
+### Features
+
+* ease Typescript rules ([d089262](https://github.com/mll-lab/eslint-config/commit/d0892624dc51ccbfb2115410d31b3e3afa72a76e))
+
 # [1.4.0](https://github.com/mll-lab/eslint-config/compare/v1.3.1...v1.4.0) (2021-10-14)
 
 
