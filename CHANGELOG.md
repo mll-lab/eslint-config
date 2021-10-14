@@ -1,3 +1,10 @@
+## [1.5.1](https://github.com/mll-lab/eslint-config/compare/v1.5.0...v1.5.1) (2021-10-14)
+
+
+### Bug Fixes
+
+* no-empty-function ([cd72263](https://github.com/mll-lab/eslint-config/commit/cd72263dffccfca4d0a132b8f224f9321a0aafcd))
+
 # [1.5.0](https://github.com/mll-lab/eslint-config/compare/v1.4.0...v1.5.0) (2021-10-14)
 
 
