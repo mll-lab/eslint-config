@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/mll-lab/eslint-config/compare/v1.2.0...v1.3.0) (2021-10-14)
+
+
+### Features
+
+* Use @typescript-eslint/recommended ([30b02f8](https://github.com/mll-lab/eslint-config/commit/30b02f8678678afbd3de9404481549eceba0246a))
+
 # [1.2.0](https://github.com/mll-lab/eslint-config/compare/v1.1.0...v1.2.0) (2021-10-14)
 
 
