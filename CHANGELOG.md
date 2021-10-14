@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/mll-lab/eslint-config/compare/v1.1.0...v1.2.0) (2021-10-14)
+
+
+### Features
+
+* Add react config ([404266c](https://github.com/mll-lab/eslint-config/commit/404266c90083996b461123e58b51d69239014cd0))
+
 # [1.1.0](https://github.com/mll-lab/eslint-config/compare/v1.0.1...v1.1.0) (2021-03-26)
 
 
