@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/mll-lab/eslint-config/compare/v1.3.0...v1.3.1) (2021-10-14)
+
+
+### Bug Fixes
+
+* include react plugins ([2fe98c1](https://github.com/mll-lab/eslint-config/commit/2fe98c1a16fdf10069ecec6617a87c92c72e7c3e))
+
 # [1.3.0](https://github.com/mll-lab/eslint-config/compare/v1.2.0...v1.3.0) (2021-10-14)
 
 
