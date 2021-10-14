@@ -1,0 +1,4 @@
+{
+  "extends": "@mll-lab/tsconfig",
+  "include": ["**/*.ts", "**/*.js", ".eslintrc.js"]
+}

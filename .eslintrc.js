@@ -1,3 +1,7 @@
 module.exports = {
-  extends: ['./index.js', './react.js'],
+  extends: ['./index.js'],
+  parser: '@typescript-eslint/parser',
+  parserOptions: {
+    project: './tsconfig.eslint.json',
+  },
 };
