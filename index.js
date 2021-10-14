@@ -17,7 +17,7 @@ module.exports = {
       { selector: 'class', format: ['PascalCase'] },
       { selector: 'enumMember', format: ['UPPER_CASE'] },
     ],
-    '@typescript-eslint/no-empty-functions': 'off', // Can be useful for no-op or defaults
+    '@typescript-eslint/no-empty-function': 'off', // Can be useful for no-op or defaults
     '@typescript-eslint/no-redeclare': 'error',
     '@typescript-eslint/no-shadow': 'error',
     '@typescript-eslint/no-unused-vars': [
