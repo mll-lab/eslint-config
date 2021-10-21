@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/mll-lab/eslint-config/compare/v1.5.1...v1.6.0) (2021-10-21)
+
+
+### Features
+
+* reenable @typescript-eslint/ban-ts-comment ([7df8c74](https://github.com/mll-lab/eslint-config/commit/7df8c744a350aa16845ce0ca3e0e5d1cbb669260))
+
 ## [1.5.1](https://github.com/mll-lab/eslint-config/compare/v1.5.0...v1.5.1) (2021-10-14)
 
 
