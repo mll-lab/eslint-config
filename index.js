@@ -8,7 +8,6 @@ module.exports = {
   plugins: ['import', 'unused-imports'],
   rules: {
     '@typescript-eslint/array-type': ['error', { default: 'generic' }],
-    '@typescript-eslint/ban-ts-comment': 'off', // Sometimes we just need a way out
     '@typescript-eslint/consistent-type-definitions': ['error', 'type'],
     '@typescript-eslint/explicit-module-boundary-types': 'off', // TODO consider reenabling this
     '@typescript-eslint/method-signature-style': 'error',
