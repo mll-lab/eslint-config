@@ -1,3 +1,10 @@
+# [1.7.0](https://github.com/mll-lab/eslint-config/compare/v1.6.0...v1.7.0) (2022-02-02)
+
+
+### Features
+
+* upgrade dependencies ([829469f](https://github.com/mll-lab/eslint-config/commit/829469f717dace1e341abb27d3dc65110233b89f))
+
 # [1.6.0](https://github.com/mll-lab/eslint-config/compare/v1.5.1...v1.6.0) (2021-10-21)
 
 
