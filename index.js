@@ -17,6 +17,13 @@ module.exports = {
       { selector: 'enumMember', format: ['UPPER_CASE'] },
     ],
     '@typescript-eslint/no-empty-function': 'off', // Can be useful for no-op or defaults
+    '@typescript-eslint/no-inferrable-types': [
+      'error',
+      {
+        ignoreParameters: true,
+        ignoreProperties: true,
+      },
+    ],
     '@typescript-eslint/no-redeclare': 'error',
     '@typescript-eslint/no-shadow': 'error',
     '@typescript-eslint/no-unused-vars': [
