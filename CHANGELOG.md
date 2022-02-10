@@ -1,3 +1,10 @@
+# [1.8.0](https://github.com/mll-lab/eslint-config/compare/v1.7.0...v1.8.0) (2022-02-10)
+
+
+### Features
+
+* allow explicit parameter and property types ([92c2454](https://github.com/mll-lab/eslint-config/commit/92c2454be7ba51525e1a552e41731e0f79395203))
+
 # [1.7.0](https://github.com/mll-lab/eslint-config/compare/v1.6.0...v1.7.0) (2022-02-02)
 
 
