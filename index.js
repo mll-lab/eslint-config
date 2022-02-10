@@ -9,6 +9,7 @@ module.exports = {
   rules: {
     '@typescript-eslint/array-type': ['error', { default: 'generic' }],
     '@typescript-eslint/consistent-type-definitions': ['error', 'type'],
+    '@typescript-eslint/default-param-last': 'error',
     '@typescript-eslint/explicit-module-boundary-types': 'off', // TODO consider reenabling this
     '@typescript-eslint/method-signature-style': 'error',
     '@typescript-eslint/naming-convention': [
@@ -38,6 +39,7 @@ module.exports = {
     'comma-dangle': ['error', 'always-multiline'],
     'consistent-return': 'off', // Not necessary with TypeScript
     'default-case': 'off', // Replaced by @typescript-eslint/switch-exhaustiveness-check
+    'default-param-last': 'off', // Replaced by @typescript-eslint/default-param-last
     'func-names': ['error', 'always'],
     'import/extensions': ['error', 'never'],
     'import/imports-first': 'error',
