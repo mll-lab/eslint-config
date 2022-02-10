@@ -1,3 +1,11 @@
+# [1.9.0](https://github.com/mll-lab/eslint-config/compare/v1.8.0...v1.9.0) (2022-02-10)
+
+
+### Features
+
+* disable default-param-last completely ([772bf6b](https://github.com/mll-lab/eslint-config/commit/772bf6b5fc3e16e08366c0e48acf2543ff95b074))
+* use @typescript-eslint/default-param-last ([cf84c68](https://github.com/mll-lab/eslint-config/commit/cf84c68554f6793e54b45642a40feaf41e8274c8))
+
 # [1.8.0](https://github.com/mll-lab/eslint-config/compare/v1.7.0...v1.8.0) (2022-02-10)
 
 
