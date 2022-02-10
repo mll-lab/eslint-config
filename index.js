@@ -9,7 +9,7 @@ module.exports = {
   rules: {
     '@typescript-eslint/array-type': ['error', { default: 'generic' }],
     '@typescript-eslint/consistent-type-definitions': ['error', 'type'],
-    '@typescript-eslint/default-param-last': 'error',
+    '@typescript-eslint/default-param-last': 'off', // see https://github.com/standard/standard/issues/1414
     '@typescript-eslint/explicit-module-boundary-types': 'off', // TODO consider reenabling this
     '@typescript-eslint/method-signature-style': 'error',
     '@typescript-eslint/naming-convention': [
