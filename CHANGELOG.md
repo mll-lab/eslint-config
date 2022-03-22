@@ -1,3 +1,10 @@
+# [1.10.0](https://github.com/mll-lab/eslint-config/compare/v1.9.0...v1.10.0) (2022-03-22)
+
+
+### Features
+
+* add react/jsx-curly-brace-presence ([5d85296](https://github.com/mll-lab/eslint-config/commit/5d8529631d7570042ddd414a27222a4e8430d615))
+
 # [1.9.0](https://github.com/mll-lab/eslint-config/compare/v1.8.0...v1.9.0) (2022-02-10)
 
 
