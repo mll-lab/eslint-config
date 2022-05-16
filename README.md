@@ -33,4 +33,3 @@ Make sure to place it config before the base config.
     "@mll-lab/eslint-config",
   ],
 ```
-
