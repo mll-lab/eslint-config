@@ -1,3 +1,10 @@
+# [1.11.0](https://github.com/mll-lab/eslint-config/compare/v1.10.0...v1.11.0) (2022-06-15)
+
+
+### Features
+
+* allow single expression in React Fragment ([#6](https://github.com/mll-lab/eslint-config/issues/6)) ([43a7268](https://github.com/mll-lab/eslint-config/commit/43a726860a127d16eec55e31888b8abb1652968c))
+
 # [1.10.0](https://github.com/mll-lab/eslint-config/compare/v1.9.0...v1.10.0) (2022-03-22)
 
 
