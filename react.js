@@ -19,6 +19,7 @@ module.exports = {
     'react/jsx-filename-extension': 'off',
     'react/jsx-first-prop-new-line': ['error', 'multiline'],
     'react/jsx-no-target-blank': 'off',
+    'react/jsx-no-useless-fragment': ['error', { allowExpressions: true }], // https://github.com/jsx-eslint/eslint-plugin-react/blob/master/docs/rules/jsx-no-useless-fragment.md#allowexpressions
     'react/jsx-props-no-spreading': 'off',
     'react/jsx-uses-vars': 'error',
     'react/no-access-state-in-setstate': 'error',
