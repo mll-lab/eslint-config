@@ -1,3 +1,10 @@
+## [1.12.1](https://github.com/mll-lab/eslint-config/compare/v1.12.0...v1.12.1) (2022-07-05)
+
+
+### Bug Fixes
+
+* allow different quotes to avoid escape ([d032662](https://github.com/mll-lab/eslint-config/commit/d032662cef7ab8e8377d352bfdf75301ca7c0fb6))
+
 # [1.12.0](https://github.com/mll-lab/eslint-config/compare/v1.11.0...v1.12.0) (2022-07-05)
 
 
