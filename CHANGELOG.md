@@ -1,3 +1,10 @@
+# [1.12.0](https://github.com/mll-lab/eslint-config/compare/v1.11.0...v1.12.0) (2022-07-05)
+
+
+### Features
+
+* prefer single quotes over template literals ([#7](https://github.com/mll-lab/eslint-config/issues/7)) ([e7535bd](https://github.com/mll-lab/eslint-config/commit/e7535bd60211f6107378a0fde16d0fa6be0e320f))
+
 # [1.11.0](https://github.com/mll-lab/eslint-config/compare/v1.10.0...v1.11.0) (2022-06-15)
 
 
