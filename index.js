@@ -69,6 +69,7 @@ module.exports = {
     'no-use-before-define': 'off',
     'object-shorthand': 'error',
     'prefer-template': 'error',
+    quotes: ['error', 'single', { allowTemplateLiterals: false }],
     'require-yield': 'off',
     'unused-imports/no-unused-imports-ts': 'error',
   },
