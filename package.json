@@ -11,7 +11,11 @@
     "eslint",
     "eslintconfig"
   ],
-  "author": "Benedikt Franke <benedikt@franke.tech>",
+  "author": {
+    "name": "Benedikt Franke",
+    "email": "benedikt@franke.tech",
+    "url": "https://franke.tech"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/mll-lab/eslint-config/issues"
