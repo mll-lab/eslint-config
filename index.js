@@ -5,8 +5,18 @@ module.exports = {
     'plugin:prettier/recommended',
     'plugin:@typescript-eslint/recommended',
   ],
-  plugins: ['import', 'unused-imports'],
+  plugins: ['import', 'unused-imports', '@getify/proper-arrows'],
   rules: {
+    '@getify/proper-arrows/where': [
+      'error',
+      {
+        global: false,
+        'global-declaration': true,
+        property: false,
+        export: false,
+        trivial: false,
+      },
+    ],
     '@typescript-eslint/array-type': ['error', { default: 'generic' }],
     '@typescript-eslint/consistent-type-definitions': ['error', 'type'],
     '@typescript-eslint/default-param-last': 'off', // see https://github.com/standard/standard/issues/1414
