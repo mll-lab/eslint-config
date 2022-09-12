@@ -28,6 +28,7 @@ module.exports = {
     ],
     '@typescript-eslint/no-redeclare': 'error',
     '@typescript-eslint/no-shadow': 'error',
+    '@typescript-eslint/no-unnecessary-condition': 'error',
     '@typescript-eslint/no-unused-vars': [
       'error',
       { ignoreRestSiblings: true },
