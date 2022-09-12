@@ -1,3 +1,10 @@
+# [1.14.0](https://github.com/mll-lab/eslint-config/compare/v1.13.0...v1.14.0) (2022-09-12)
+
+
+### Features
+
+* add @typescript-eslint/no-unnecessary-condition ([2e46358](https://github.com/mll-lab/eslint-config/commit/2e46358dd77d117567ec23fefb290a5eed4d52a3))
+
 # [1.13.0](https://github.com/mll-lab/eslint-config/compare/v1.12.1...v1.13.0) (2022-09-12)
 
 
