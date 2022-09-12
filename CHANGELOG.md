@@ -1,3 +1,10 @@
+# [1.15.0](https://github.com/mll-lab/eslint-config/compare/v1.14.0...v1.15.0) (2022-09-12)
+
+
+### Features
+
+* add @getify/proper-arrows/where ([81cfc99](https://github.com/mll-lab/eslint-config/commit/81cfc99feb685a18bc78e61cb03b6ef2a5312caa))
+
 # [1.14.0](https://github.com/mll-lab/eslint-config/compare/v1.13.0...v1.14.0) (2022-09-12)
 
 
