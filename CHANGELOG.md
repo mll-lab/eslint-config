@@ -1,3 +1,10 @@
+# [1.13.0](https://github.com/mll-lab/eslint-config/compare/v1.12.1...v1.13.0) (2022-09-12)
+
+
+### Features
+
+* set no-explicit-any to error ([856e60b](https://github.com/mll-lab/eslint-config/commit/856e60b423f2c1caa7b0a7132b8983ecae265780))
+
 ## [1.12.1](https://github.com/mll-lab/eslint-config/compare/v1.12.0...v1.12.1) (2022-07-05)
 
 
