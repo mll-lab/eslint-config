@@ -15,7 +15,10 @@ module.exports = {
     'react/forbid-prop-types': 'off', // unnecessary with TypeScript
     'react/forbid-foreign-prop-types': 'off', // unnecessary with TypeScript
     'react/jsx-closing-tag-location': 'off',
-    'react/jsx-curly-brace-presence': 'error',
+    'react/jsx-curly-brace-presence': [
+      'error',
+      { props: 'never', children: 'never', propElementValues: 'always' },
+    ],
     'react/jsx-filename-extension': 'off',
     'react/jsx-first-prop-new-line': ['error', 'multiline'],
     'react/jsx-no-target-blank': 'off',
