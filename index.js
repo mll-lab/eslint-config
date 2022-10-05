@@ -36,6 +36,7 @@ module.exports = {
         ignoreProperties: true,
       },
     ],
+    '@typescript-eslint/no-non-null-assertion': 'off',
     '@typescript-eslint/no-redeclare': 'error',
     '@typescript-eslint/no-shadow': 'error',
     '@typescript-eslint/no-unnecessary-condition': 'error',
