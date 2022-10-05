@@ -53,7 +53,16 @@ module.exports = {
     'default-case': 'off', // Replaced by @typescript-eslint/switch-exhaustiveness-check
     'default-param-last': 'off', // Replaced by @typescript-eslint/default-param-last
     'func-names': ['error', 'always'],
-    'import/extensions': ['error', 'never'],
+    'import/extensions': [
+      'error',
+      'always',
+      {
+        ts: 'never',
+        tsx: 'never',
+        js: 'never',
+        jsx: 'never',
+      },
+    ],
     'import/imports-first': 'error',
     'import/newline-after-import': 'error',
     'import/no-extraneous-dependencies': 'off',
