@@ -1,3 +1,10 @@
+# [1.18.0](https://github.com/mll-lab/eslint-config/compare/v1.17.0...v1.18.0) (2022-10-05)
+
+
+### Features
+
+* replace require-await with @typescript-eslint/require-await ([4deeb73](https://github.com/mll-lab/eslint-config/commit/4deeb73db0191466cbc5fa2e252d5b0c527e6929))
+
 # [1.17.0](https://github.com/mll-lab/eslint-config/compare/v1.16.0...v1.17.0) (2022-10-05)
 
 
