@@ -19,7 +19,7 @@ module.exports = {
     ],
     '@typescript-eslint/array-type': ['error', { default: 'generic' }],
     '@typescript-eslint/consistent-type-definitions': ['error', 'type'],
-    '@typescript-eslint/default-param-last': 'off', // see https://github.com/standard/standard/issues/1414
+
     '@typescript-eslint/explicit-module-boundary-types': 'off', // TODO consider reenabling this
     '@typescript-eslint/method-signature-style': 'error',
     '@typescript-eslint/naming-convention': [
@@ -40,19 +40,27 @@ module.exports = {
     '@typescript-eslint/no-redeclare': 'error',
     '@typescript-eslint/no-shadow': 'error',
     '@typescript-eslint/no-unnecessary-condition': 'error',
+
+    'no-unused-vars': 'off',
     '@typescript-eslint/no-unused-vars': [
       'error',
       { ignoreRestSiblings: true },
     ],
+
+    'default-param-last': 'off', // Replaced by @typescript-eslint/default-param-last
+    '@typescript-eslint/default-param-last': 'off', // see https://github.com/standard/standard/issues/1414
+
+    'default-case': 'off',
     '@typescript-eslint/switch-exhaustiveness-check': 'error',
+
+    'require-await': 'off',
+    '@typescript-eslint/require-await': 'error',
 
     'arrow-body-style': ['error', 'as-needed'],
     camelcase: 'off',
     'class-methods-use-this': 'off',
     'comma-dangle': ['error', 'always-multiline'],
     'consistent-return': 'off', // Not necessary with TypeScript
-    'default-case': 'off', // Replaced by @typescript-eslint/switch-exhaustiveness-check
-    'default-param-last': 'off', // Replaced by @typescript-eslint/default-param-last
     'func-names': ['error', 'always'],
     'import/extensions': [
       'error',
@@ -87,7 +95,6 @@ module.exports = {
       2,
       { allow: ['__typename', '__REDUX_DEVTOOLS_EXTENSION_COMPOSE__'] },
     ],
-    'no-unused-vars': 'off', // Replaced by @typescript-eslint/no-unused-vars
     'no-use-before-define': 'off',
     'object-shorthand': 'error',
     'prefer-template': 'error',
