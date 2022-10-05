@@ -1,3 +1,10 @@
+# [1.16.0](https://github.com/mll-lab/eslint-config/compare/v1.15.1...v1.16.0) (2022-10-05)
+
+
+### Features
+
+* update `import/extensions` settings ([#8](https://github.com/mll-lab/eslint-config/issues/8)) ([40a7dea](https://github.com/mll-lab/eslint-config/commit/40a7dea8b101d4196751578efa1abac5f3f942fa))
+
 ## [1.15.1](https://github.com/mll-lab/eslint-config/compare/v1.15.0...v1.15.1) (2022-09-15)
 
 
