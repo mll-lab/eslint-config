@@ -1,3 +1,10 @@
+# [1.17.0](https://github.com/mll-lab/eslint-config/compare/v1.16.0...v1.17.0) (2022-10-05)
+
+
+### Features
+
+* disable @typescript-eslint/no-non-null-assertion ([51eba42](https://github.com/mll-lab/eslint-config/commit/51eba424bd54b085ec567ed58576057d76830905))
+
 # [1.16.0](https://github.com/mll-lab/eslint-config/compare/v1.15.1...v1.16.0) (2022-10-05)
 
 

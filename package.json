@@ -1,6 +1,6 @@
 {
   "name": "@mll-lab/eslint-config",
-  "version": "1.16.0",
+  "version": "1.17.0",
   "description": "The shareable eslint configuration of MLL",
   "main": "index.js",
   "repository": {
