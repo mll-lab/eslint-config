@@ -12,7 +12,7 @@ Extend this configuration in your ESLint config:
 
 ```json
   "extends": [
-    "@mll-lab/eslint-config",
+    "@mll-lab/eslint-config"
   ],
 ```
 
@@ -30,6 +30,6 @@ Make sure to place it config before the base config.
 ```json
   "extends": [
     "@mll-lab/eslint-config/react",
-    "@mll-lab/eslint-config",
+    "@mll-lab/eslint-config"
   ],
 ```
