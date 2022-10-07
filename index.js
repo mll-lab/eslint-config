@@ -2,10 +2,11 @@ module.exports = {
   parser: '@typescript-eslint/parser',
   extends: [
     'airbnb-base',
+    'plugin:import/typescript',
     'plugin:prettier/recommended',
     'plugin:@typescript-eslint/recommended',
   ],
-  plugins: ['import', 'unused-imports', '@getify/proper-arrows'],
+  plugins: ['unused-imports', '@getify/proper-arrows'],
   rules: {
     '@getify/proper-arrows/where': [
       'error',
