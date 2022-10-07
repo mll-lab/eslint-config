@@ -63,16 +63,7 @@ module.exports = {
     'comma-dangle': ['error', 'always-multiline'],
     'consistent-return': 'off', // Not necessary with TypeScript
     'func-names': ['error', 'always'],
-    'import/extensions': [
-      'error',
-      'always',
-      {
-        ts: 'never',
-        tsx: 'never',
-        js: 'never',
-        jsx: 'never',
-      },
-    ],
+    'import/extensions': 'off', // Only works nicely with webpack
     'import/imports-first': 'error',
     'import/newline-after-import': 'error',
     'import/no-extraneous-dependencies': 'off',
