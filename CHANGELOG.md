@@ -1,3 +1,11 @@
+# [1.19.0](https://github.com/mll-lab/eslint-config/compare/v1.18.0...v1.19.0) (2022-10-07)
+
+
+### Features
+
+* disable import/extensions ([477da4c](https://github.com/mll-lab/eslint-config/commit/477da4ce31e6db3f9b382e7df009085211673f4c))
+* fix plugin import for TypeScript ([eddad92](https://github.com/mll-lab/eslint-config/commit/eddad92cedb6f6cc88e8f31de719fbb4cb0baf04))
+
 # [1.18.0](https://github.com/mll-lab/eslint-config/compare/v1.17.0...v1.18.0) (2022-10-05)
 
 
