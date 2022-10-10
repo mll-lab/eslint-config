@@ -1,3 +1,10 @@
+# [1.20.0](https://github.com/mll-lab/eslint-config/compare/v1.19.0...v1.20.0) (2022-10-10)
+
+
+### Features
+
+* include our rules for jsx-a11y ([853605c](https://github.com/mll-lab/eslint-config/commit/853605c31be136bb779905a51fd618624bda7475))
+
 # [1.19.0](https://github.com/mll-lab/eslint-config/compare/v1.18.0...v1.19.0) (2022-10-07)
 
 
