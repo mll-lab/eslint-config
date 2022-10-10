@@ -4,12 +4,7 @@ module.exports = {
     'plugin:react/recommended',
     'plugin:react-hooks/recommended',
   ],
-  plugins: ['react', 'react-hooks'],
   rules: {
-    // Not always accurate, but should be explicitly ignored in order to not trash the log
-    'react-hooks/exhaustive-deps': 'error',
-    'react-hooks/rules-of-hooks': 'error',
-
     'react/default-props-match-prop-types': 'off', // unnecessary with TypeScript
     'react/destructuring-assignment': 'off',
     'react/forbid-prop-types': 'off', // unnecessary with TypeScript
@@ -37,5 +32,26 @@ module.exports = {
     'react/sort-prop-types': 'off',
     'react/state-in-constructor': 'off',
     'react/static-property-placement': ['error', 'static public field'],
+
+    // Not always accurate, but should be explicitly ignored in order to not trash the log
+    'react-hooks/exhaustive-deps': 'error',
+    'react-hooks/rules-of-hooks': 'error',
+
+    'jsx-a11y/aria-props': 'error',
+    'jsx-a11y/control-has-associated-label': 'off',
+    'jsx-a11y/heading-has-content': 'off',
+    'jsx-a11y/label-has-associated-control': [
+      'error',
+      {
+        // NOTE: If this error triggers, either disable it or add
+        // your custom components, labels and attributes via these options
+        // See https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/label-has-associated-control.md
+        controlComponents: ['Input'],
+      },
+    ],
+    'jsx-a11y/label-has-for': 'off',
+    'jsx-a11y/mouse-events-have-key-events': 'error',
+    'jsx-a11y/role-has-required-aria-props': 'error',
+    'jsx-a11y/role-supports-aria-props': 'error',
   },
 };

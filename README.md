@@ -21,7 +21,7 @@ Extend this configuration in your ESLint config:
 Add required peer dependencies:
 
 ```
-yarn add --dev eslint-config-airbnb eslint-plugin-react eslint-plugin-react-hooks
+yarn add --dev eslint-config-airbnb eslint-plugin-react eslint-plugin-react-hooks eslint-plugin-jsx-a11y
 ```
 
 Then add an extra entry to your ESLint config.
