@@ -1,3 +1,10 @@
+## [1.20.1](https://github.com/mll-lab/eslint-config/compare/v1.20.0...v1.20.1) (2022-11-14)
+
+
+### Bug Fixes
+
+* set react/no-danger to error ([2d6c717](https://github.com/mll-lab/eslint-config/commit/2d6c717a16077d9c0cf30023d6799aae8bc41baa))
+
 # [1.20.0](https://github.com/mll-lab/eslint-config/compare/v1.19.0...v1.20.0) (2022-10-10)
 
 
