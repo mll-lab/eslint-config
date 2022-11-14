@@ -21,6 +21,7 @@ module.exports = {
     'react/jsx-props-no-spreading': 'off',
     'react/jsx-uses-vars': 'error',
     'react/no-access-state-in-setstate': 'error',
+    'react/no-danger': 'error',
     'react/no-direct-mutation-state': 'error',
     'react/no-unused-prop-types': 'off', // unnecessary with TypeScript
     'react/no-unused-state': 'error',
