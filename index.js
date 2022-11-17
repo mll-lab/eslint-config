@@ -48,6 +48,9 @@ module.exports = {
       { ignoreRestSiblings: true },
     ],
 
+    'no-useless-constructor': 'off',
+    '@typescript-eslint/no-useless-constructor': 'error',
+
     'default-param-last': 'off', // Replaced by @typescript-eslint/default-param-last
     '@typescript-eslint/default-param-last': 'off', // see https://github.com/standard/standard/issues/1414
 
