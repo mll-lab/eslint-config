@@ -1,3 +1,10 @@
+## [1.20.2](https://github.com/mll-lab/eslint-config/compare/v1.20.1...v1.20.2) (2022-11-17)
+
+
+### Bug Fixes
+
+* use `@typescript-eslint/no-useless-constructor` over base rule ([#9](https://github.com/mll-lab/eslint-config/issues/9)) ([eb9ae53](https://github.com/mll-lab/eslint-config/commit/eb9ae530b04d8d0f700555eccab9d162f98cb955))
+
 ## [1.20.1](https://github.com/mll-lab/eslint-config/compare/v1.20.0...v1.20.1) (2022-11-14)
 
 
