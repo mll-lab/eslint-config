@@ -1,3 +1,10 @@
+# [1.21.0](https://github.com/mll-lab/eslint-config/compare/v1.20.2...v1.21.0) (2022-11-18)
+
+
+### Features
+
+* Allow arrow functions for dynamically created components ([1cbb230](https://github.com/mll-lab/eslint-config/commit/1cbb230724072703affb835a19368b37c61f4ccf))
+
 ## [1.20.2](https://github.com/mll-lab/eslint-config/compare/v1.20.1...v1.20.2) (2022-11-17)
 
 
