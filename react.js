@@ -9,6 +9,12 @@ module.exports = {
     'react/destructuring-assignment': 'off',
     'react/forbid-prop-types': 'off', // unnecessary with TypeScript
     'react/forbid-foreign-prop-types': 'off', // unnecessary with TypeScript
+    'react/function-component-definition': [
+      'error',
+      {
+        namedComponents: ['function-declaration', 'arrow-function'], // Allow arrow functions for dynamically created components
+      },
+    ],
     'react/jsx-closing-tag-location': 'off',
     'react/jsx-curly-brace-presence': [
       'error',
