@@ -12,7 +12,11 @@ module.exports = {
     'react/function-component-definition': [
       'error',
       {
-        namedComponents: ['function-declaration', 'arrow-function'], // Allow arrow functions for dynamically created components
+        namedComponents: [
+          'function-declaration', // top-level components
+          'function-expression', // top-level components conforming to a component type
+          'arrow-function', // for dynamically created components
+        ],
       },
     ],
     'react/jsx-closing-tag-location': 'off',
