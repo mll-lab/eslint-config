@@ -1,3 +1,10 @@
+# [1.22.0](https://github.com/mll-lab/eslint-config/compare/v1.21.0...v1.22.0) (2022-11-21)
+
+
+### Features
+
+* Allow function expressions for components conforming to a component type ([70a1d42](https://github.com/mll-lab/eslint-config/commit/70a1d42146550dd5498e30df135bb017ab3e4fe4))
+
 # [1.21.0](https://github.com/mll-lab/eslint-config/compare/v1.20.2...v1.21.0) (2022-11-18)
 
 
