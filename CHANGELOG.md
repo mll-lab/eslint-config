@@ -1,3 +1,10 @@
+## [1.22.1](https://github.com/mll-lab/eslint-config/compare/v1.22.0...v1.22.1) (2023-01-23)
+
+
+### Bug Fixes
+
+* remove unused dependency eslint-plugin-cypress ([#11](https://github.com/mll-lab/eslint-config/issues/11)) ([d7987d5](https://github.com/mll-lab/eslint-config/commit/d7987d5ecc6e81db8555dab5eece6f3a866cf394))
+
 # [1.22.0](https://github.com/mll-lab/eslint-config/compare/v1.21.0...v1.22.0) (2022-11-21)
 
 
