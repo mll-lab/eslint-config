@@ -1,3 +1,10 @@
+# [1.23.0](https://github.com/mll-lab/eslint-config/compare/v1.22.1...v1.23.0) (2023-03-09)
+
+
+### Features
+
+* allow unstabled-nested-components as props ([4b59607](https://github.com/mll-lab/eslint-config/commit/4b59607dea583e4d099eda9076e9a24576b227b0))
+
 ## [1.22.1](https://github.com/mll-lab/eslint-config/compare/v1.22.0...v1.22.1) (2023-01-23)
 
 
