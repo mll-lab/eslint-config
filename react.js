@@ -33,6 +33,7 @@ module.exports = {
     'react/no-access-state-in-setstate': 'error',
     'react/no-danger': 'error',
     'react/no-direct-mutation-state': 'error',
+    'react/no-unstable-nested-components': ['error', { allowAsProps: true }],
     'react/no-unused-prop-types': 'off', // unnecessary with TypeScript
     'react/no-unused-state': 'error',
     'react/prop-types': 'off', // unnecessary with TypeScript
