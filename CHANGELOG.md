@@ -1,3 +1,10 @@
+# [1.24.0](https://github.com/mll-lab/eslint-config/compare/v1.23.0...v1.24.0) (2023-05-08)
+
+
+### Features
+
+* turn off import/no-cycle ([204b5a4](https://github.com/mll-lab/eslint-config/commit/204b5a4c08627fdc643722daf720cdd912c828e3))
+
 # [1.23.0](https://github.com/mll-lab/eslint-config/compare/v1.22.1...v1.23.0) (2023-03-09)
 
 
