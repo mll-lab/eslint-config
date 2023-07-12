@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/mll-lab/eslint-config/compare/v1.24.0...v2.0.0) (2023-07-12)
+
+
+### Features
+
+* support typescript-eslint 6 ([a573e1d](https://github.com/mll-lab/eslint-config/commit/a573e1d9ba7e4c00e7c6224705ef28042741a5f0))
+
+
+### BREAKING CHANGES
+
+* require typescript-eslint 6
+
 # [1.24.0](https://github.com/mll-lab/eslint-config/compare/v1.23.0...v1.24.0) (2023-05-08)
 
 
