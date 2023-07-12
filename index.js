@@ -4,7 +4,7 @@ module.exports = {
     'airbnb-base',
     'plugin:import/typescript',
     'plugin:prettier/recommended',
-    'plugin:@typescript-eslint/recommended',
+    'plugin:@typescript-eslint/recommended-type-checked',
   ],
   plugins: ['unused-imports', '@getify/proper-arrows'],
   rules: {
@@ -21,7 +21,7 @@ module.exports = {
     '@typescript-eslint/array-type': ['error', { default: 'generic' }],
     '@typescript-eslint/consistent-type-definitions': ['error', 'type'],
 
-    '@typescript-eslint/explicit-module-boundary-types': 'off', // TODO consider reenabling this
+    '@typescript-eslint/explicit-module-boundary-types': 'off', // TODO consider re-enabling this
     '@typescript-eslint/method-signature-style': 'error',
     '@typescript-eslint/naming-convention': [
       'error',
