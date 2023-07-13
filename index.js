@@ -28,7 +28,6 @@ module.exports = {
       { selector: 'class', format: ['PascalCase'] },
       { selector: 'enumMember', format: ['UPPER_CASE'] },
     ],
-    '@typescript-eslint/no-empty-function': 'off', // Can be useful for no-op or defaults
     '@typescript-eslint/no-explicit-any': 'error',
     '@typescript-eslint/no-inferrable-types': [
       'error',
@@ -42,6 +41,10 @@ module.exports = {
     '@typescript-eslint/no-shadow': 'error',
     '@typescript-eslint/no-unnecessary-condition': 'error',
     '@typescript-eslint/prefer-includes': 'error',
+
+    // Can be useful for no-op or defaults
+    'no-empty-function': 'off',
+    '@typescript-eslint/no-empty-function': 'off',
 
     'no-unused-vars': 'off',
     '@typescript-eslint/no-unused-vars': [
