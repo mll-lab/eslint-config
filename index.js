@@ -41,6 +41,7 @@ module.exports = {
     '@typescript-eslint/no-redeclare': 'error',
     '@typescript-eslint/no-shadow': 'error',
     '@typescript-eslint/no-unnecessary-condition': 'error',
+    '@typescript-eslint/prefer-includes': 'error',
 
     'no-unused-vars': 'off',
     '@typescript-eslint/no-unused-vars': [
