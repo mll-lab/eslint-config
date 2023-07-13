@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/mll-lab/eslint-config/compare/v2.0.0...v2.1.0) (2023-07-13)
+
+
+### Features
+
+* add @typescript-eslint/prefer-includes ([#13](https://github.com/mll-lab/eslint-config/issues/13)) ([c8c4dad](https://github.com/mll-lab/eslint-config/commit/c8c4dad679f2d31b3154eb9a9efea3c8a8d473ea))
+
 # [2.0.0](https://github.com/mll-lab/eslint-config/compare/v1.24.0...v2.0.0) (2023-07-12)
 
 
