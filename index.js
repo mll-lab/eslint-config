@@ -18,9 +18,9 @@ module.exports = {
         trivial: false,
       },
     ],
+
     '@typescript-eslint/array-type': ['error', { default: 'generic' }],
     '@typescript-eslint/consistent-type-definitions': ['error', 'type'],
-
     '@typescript-eslint/explicit-module-boundary-types': 'off', // TODO consider re-enabling this
     '@typescript-eslint/method-signature-style': 'error',
     '@typescript-eslint/naming-convention': [
@@ -41,6 +41,7 @@ module.exports = {
     '@typescript-eslint/no-redeclare': 'error',
     '@typescript-eslint/no-shadow': 'error',
     '@typescript-eslint/no-unnecessary-condition': 'error',
+    '@typescript-eslint/prefer-includes': 'error',
 
     'no-unused-vars': 'off',
     '@typescript-eslint/no-unused-vars': [
@@ -51,8 +52,9 @@ module.exports = {
     'no-useless-constructor': 'off',
     '@typescript-eslint/no-useless-constructor': 'error',
 
-    'default-param-last': 'off', // Replaced by @typescript-eslint/default-param-last
-    '@typescript-eslint/default-param-last': 'off', // see https://github.com/standard/standard/issues/1414
+    // See https://github.com/standard/standard/issues/1414#issuecomment-728947790
+    'default-param-last': 'off',
+    '@typescript-eslint/default-param-last': 'off',
 
     'default-case': 'off',
     '@typescript-eslint/switch-exhaustiveness-check': 'error',
