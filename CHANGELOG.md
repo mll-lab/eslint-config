@@ -1,3 +1,10 @@
+# [2.2.0](https://github.com/mll-lab/eslint-config/compare/v2.1.0...v2.2.0) (2023-07-13)
+
+
+### Features
+
+* ignore no-empty-function ([ea89573](https://github.com/mll-lab/eslint-config/commit/ea89573ea98bbfcdcd3e42f2e15677b0e3b5b169))
+
 # [2.1.0](https://github.com/mll-lab/eslint-config/compare/v2.0.0...v2.1.0) (2023-07-13)
 
 
