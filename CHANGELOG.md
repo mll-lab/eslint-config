@@ -1,3 +1,10 @@
+## [2.2.1](https://github.com/mll-lab/eslint-config/compare/v2.2.0...v2.2.1) (2023-07-14)
+
+
+### Bug Fixes
+
+* reorganize redundant [@typescript-eslint](https://github.com/typescript-eslint) rules ([8beb927](https://github.com/mll-lab/eslint-config/commit/8beb927645b63cdda6cda6ad4f69d8698c83f65d))
+
 # [2.2.0](https://github.com/mll-lab/eslint-config/compare/v2.1.0...v2.2.0) (2023-07-13)
 
 
