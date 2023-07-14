@@ -28,7 +28,6 @@ module.exports = {
       { selector: 'class', format: ['PascalCase'] },
       { selector: 'enumMember', format: ['UPPER_CASE'] },
     ],
-    '@typescript-eslint/no-explicit-any': 'error',
     '@typescript-eslint/no-inferrable-types': [
       'error',
       {
@@ -36,15 +35,18 @@ module.exports = {
         ignoreProperties: true,
       },
     ],
-    '@typescript-eslint/no-non-null-assertion': 'off',
-    '@typescript-eslint/no-redeclare': 'error',
-    '@typescript-eslint/no-shadow': 'error',
     '@typescript-eslint/no-unnecessary-condition': 'error',
     '@typescript-eslint/prefer-includes': 'error',
 
     // Can be useful for no-op or defaults
     'no-empty-function': 'off',
     '@typescript-eslint/no-empty-function': 'off',
+
+    'no-redeclare': 'off',
+    '@typescript-eslint/no-redeclare': 'error',
+
+    'no-shadow': 'off',
+    '@typescript-eslint/no-shadow': 'error',
 
     'no-unused-vars': 'off',
     '@typescript-eslint/no-unused-vars': [
@@ -90,8 +92,6 @@ module.exports = {
     'no-console': 'error',
     'no-nested-ternary': 'error',
     'no-param-reassign': ['error', { props: false }],
-    'no-redeclare': 'off',
-    'no-shadow': 'off',
     'no-underscore-dangle': [
       2,
       { allow: ['__typename', '__REDUX_DEVTOOLS_EXTENSION_COMPOSE__'] },
