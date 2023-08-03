@@ -1,3 +1,10 @@
+# [2.3.0](https://github.com/mll-lab/eslint-config/compare/v2.2.1...v2.3.0) (2023-08-03)
+
+
+### Features
+
+* disable @typescript-eslint/no-unnecessary-boolean-literal-compare ([db922e8](https://github.com/mll-lab/eslint-config/commit/db922e835c108faf1dbe62ed9a0e6072a38a90cb))
+
 ## [2.2.1](https://github.com/mll-lab/eslint-config/compare/v2.2.0...v2.2.1) (2023-07-14)
 
 
