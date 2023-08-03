@@ -35,6 +35,7 @@ module.exports = {
         ignoreProperties: true,
       },
     ],
+    '@typescript-eslint/no-unnecessary-boolean-literal-compare': 'off', // false-positive on valid comparisons against values that might still be loading
     '@typescript-eslint/no-unnecessary-condition': 'error',
     '@typescript-eslint/prefer-includes': 'error',
 
