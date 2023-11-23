@@ -1,3 +1,10 @@
+## [2.3.1](https://github.com/mll-lab/eslint-config/compare/v2.3.0...v2.3.1) (2023-11-23)
+
+
+### Bug Fixes
+
+* remove unused dependency on eslint-plugin-testing-library ([18ace0c](https://github.com/mll-lab/eslint-config/commit/18ace0c765142c051475f3de11c9824969e629d5))
+
 # [2.3.0](https://github.com/mll-lab/eslint-config/compare/v2.2.1...v2.3.0) (2023-08-03)
 
 
