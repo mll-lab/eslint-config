@@ -1,3 +1,15 @@
+# [3.0.0](https://github.com/mll-lab/eslint-config/compare/v2.3.2...v3.0.0) (2023-11-23)
+
+
+### Features
+
+* upgrade all dependencies to their latest release ([b8ea03c](https://github.com/mll-lab/eslint-config/commit/b8ea03c0eaca6885ed587c97b0e562936a71944f))
+
+
+### BREAKING CHANGES
+
+* require new major versions of multiple dependencies
+
 ## [2.3.2](https://github.com/mll-lab/eslint-config/compare/v2.3.1...v2.3.2) (2023-11-23)
 
 
