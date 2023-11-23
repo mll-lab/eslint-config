@@ -45,7 +45,7 @@
     "format": "yarn run lint --fix"
   },
   "devDependencies": {
-    "@mll-lab/tsconfig": "^3.0.0",
+    "@mll-lab/tsconfig": "^3.0.1",
     "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/git": "^10.0.1",
     "eslint-config-airbnb": "^19.0.4",

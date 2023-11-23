@@ -185,7 +185,7 @@ __metadata:
   resolution: "@mll-lab/eslint-config@workspace:."
   dependencies:
     "@getify/eslint-plugin-proper-arrows": "npm:^11.0.3"
-    "@mll-lab/tsconfig": "npm:^3.0.0"
+    "@mll-lab/tsconfig": "npm:^3.0.1"
     "@semantic-release/changelog": "npm:^6.0.3"
     "@semantic-release/git": "npm:^10.0.1"
     "@typescript-eslint/eslint-plugin": "npm:^6.12.0"
@@ -212,12 +212,12 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@mll-lab/tsconfig@npm:^3.0.0":
-  version: 3.0.0
-  resolution: "@mll-lab/tsconfig@npm:3.0.0"
+"@mll-lab/tsconfig@npm:^3.0.1":
+  version: 3.0.1
+  resolution: "@mll-lab/tsconfig@npm:3.0.1"
   peerDependencies:
     typescript: ^5.3.2
-  checksum: 1410ec2eeb9d5bd98f013877cefc8d9d06016e5d04d50be5726da28fab77a240fbacf124d9a97ad8cf03b6892f0b1f97e66fed11dc70bbd1fcb4906f9adac5b1
+  checksum: 82ed8cf77b74ff15e79ee17c65b2ff0af43f549a8e8acd04f6d33363a939604567fdab11f4f43e62a72a4e24a99ca04ff25956c41e8856bb3c98c76f6584f857
   languageName: node
   linkType: hard
 
