@@ -1,3 +1,10 @@
+## [2.3.2](https://github.com/mll-lab/eslint-config/compare/v2.3.1...v2.3.2) (2023-11-23)
+
+
+### Bug Fixes
+
+* remove unused peer dependencies ([1bfa275](https://github.com/mll-lab/eslint-config/commit/1bfa275cb214b33c9981c5ea26c25fb8ccc58686))
+
 ## [2.3.1](https://github.com/mll-lab/eslint-config/compare/v2.3.0...v2.3.1) (2023-11-23)
 
 
