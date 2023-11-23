@@ -1,3 +1,10 @@
+# [3.1.0](https://github.com/mll-lab/eslint-config/compare/v3.0.0...v3.1.0) (2023-11-23)
+
+
+### Features
+
+* allow typescript 5 ([63f21d3](https://github.com/mll-lab/eslint-config/commit/63f21d33b721dacdd6affdd28b26ddd583fc7a1e))
+
 # [3.0.0](https://github.com/mll-lab/eslint-config/compare/v2.3.2...v3.0.0) (2023-11-23)
 
 
