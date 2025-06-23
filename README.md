@@ -4,7 +4,9 @@ The shareable eslint configuration of MLL
 
 ## Installation
 
-    yarn add --dev @mll-lab/eslint-config
+```shell
+yarn add --dev @mll-lab/eslint-config
+```
 
 ## Configuration
 
@@ -20,8 +22,8 @@ Extend this configuration in your ESLint config:
 
 Add required peer dependencies:
 
-```
-yarn add --dev eslint-config-airbnb eslint-plugin-react eslint-plugin-react-hooks eslint-plugin-jsx-a11y
+```shell
+yarn add --dev eslint-plugin-react eslint-plugin-react-hooks eslint-plugin-jsx-a11y
 ```
 
 Then add an extra entry to your ESLint config.
