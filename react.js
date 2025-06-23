@@ -1,8 +1,5 @@
 module.exports = {
-  extends: [
-    'plugin:react/recommended',
-    'plugin:react-hooks/recommended',
-  ],
+  extends: ['plugin:react/recommended', 'plugin:react-hooks/recommended'],
   rules: {
     'react/default-props-match-prop-types': 'off', // unnecessary with TypeScript
     'react/destructuring-assignment': 'off',
