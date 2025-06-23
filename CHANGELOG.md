@@ -1,3 +1,10 @@
+# [3.4.0-alpha.1](https://github.com/mll-lab/eslint-config/compare/v3.3.0...v3.4.0-alpha.1) (2025-06-23)
+
+
+### Features
+
+* add rules from our projects ([3d2ad0d](https://github.com/mll-lab/eslint-config/commit/3d2ad0d477d71913613defecf334bc18d34a866b))
+
 # [3.3.0](https://github.com/mll-lab/eslint-config/compare/v3.2.0...v3.3.0) (2025-06-23)
 
 
