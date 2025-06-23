@@ -1,3 +1,11 @@
+# [3.2.0](https://github.com/mll-lab/eslint-config/compare/v3.1.0...v3.2.0) (2025-06-23)
+
+
+### Features
+
+* allow eslint-plugin-react-hooks 5 ([3504228](https://github.com/mll-lab/eslint-config/commit/3504228ad51618da32e520b09afd2ada53d72e4a))
+* allow eslint-plugin-react-hooks 5 ([60269e2](https://github.com/mll-lab/eslint-config/commit/60269e2049af56e7f7f027542e6ce6d05326e687))
+
 # [3.1.0](https://github.com/mll-lab/eslint-config/compare/v3.0.0...v3.1.0) (2023-11-23)
 
 
