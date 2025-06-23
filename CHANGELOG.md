@@ -1,3 +1,10 @@
+# [3.4.0-alpha.2](https://github.com/mll-lab/eslint-config/compare/v3.4.0-alpha.1...v3.4.0-alpha.2) (2025-06-23)
+
+
+### Bug Fixes
+
+* release ([9989cde](https://github.com/mll-lab/eslint-config/commit/9989cde88e92a33ee7e8786235d534be27b58fba))
+
 # [3.4.0-alpha.1](https://github.com/mll-lab/eslint-config/compare/v3.3.0...v3.4.0-alpha.1) (2025-06-23)
 
 
