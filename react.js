@@ -1,9 +1,6 @@
 module.exports = {
-  extends: [
-    'airbnb',
-    'plugin:react/recommended',
-    'plugin:react-hooks/recommended',
-  ],
+  extends: ['plugin:react/recommended', 'plugin:react-hooks/recommended'],
+  plugins: ['jsx-a11y'],
   rules: {
     'react/default-props-match-prop-types': 'off', // unnecessary with TypeScript
     'react/destructuring-assignment': 'off',

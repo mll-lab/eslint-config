@@ -1,12 +1,12 @@
 module.exports = {
   parser: '@typescript-eslint/parser',
   extends: [
-    'airbnb-base',
+    'eslint:recommended',
     'plugin:import/typescript',
     'plugin:prettier/recommended',
     'plugin:@typescript-eslint/recommended-type-checked',
   ],
-  plugins: ['unused-imports', '@getify/proper-arrows'],
+  plugins: ['import', 'unused-imports', '@getify/proper-arrows'],
   rules: {
     '@getify/proper-arrows/where': [
       'error',
@@ -96,6 +96,7 @@ module.exports = {
     'no-nested-ternary': 'error',
     'no-param-reassign': ['error', { props: false }],
     'no-return-assign': 'off',
+    'no-undef': 'off',
     'no-underscore-dangle': [
       2,
       { allow: ['__typename', '__REDUX_DEVTOOLS_EXTENSION_COMPOSE__'] },
