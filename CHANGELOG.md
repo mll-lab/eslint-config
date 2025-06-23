@@ -1,3 +1,10 @@
+# [3.4.0](https://github.com/mll-lab/eslint-config/compare/v3.3.0...v3.4.0) (2025-06-23)
+
+
+### Features
+
+* remove airbnb in favor of eslint:recommended ([#18](https://github.com/mll-lab/eslint-config/issues/18)) ([b29ec54](https://github.com/mll-lab/eslint-config/commit/b29ec5458ca96f37576e1411b87f58d1dcdb58ee))
+
 # [3.3.0](https://github.com/mll-lab/eslint-config/compare/v3.2.0...v3.3.0) (2025-06-23)
 
 
