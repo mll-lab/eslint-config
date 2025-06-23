@@ -71,6 +71,7 @@ module.exports = {
     'arrow-body-style': ['error', 'as-needed'],
     camelcase: 'off',
     'class-methods-use-this': 'off',
+    curly: ['error', 'all'],
     'comma-dangle': ['error', 'always-multiline'],
     'consistent-return': 'off', // Not necessary with TypeScript
     'func-names': ['error', 'always'],
@@ -91,14 +92,20 @@ module.exports = {
     'newline-per-chained-call': 'off',
     'no-confusing-arrow': 'off',
     'no-console': 'error',
+    'no-continue': 'off',
     'no-nested-ternary': 'error',
     'no-param-reassign': ['error', { props: false }],
+    'no-return-assign': 'off',
     'no-underscore-dangle': [
       2,
       { allow: ['__typename', '__REDUX_DEVTOOLS_EXTENSION_COMPOSE__'] },
     ],
     'no-use-before-define': 'off',
     'object-shorthand': 'error',
+    'padding-line-between-statements': [
+      'error',
+      { blankLine: 'always', prev: '*', next: 'return' },
+    ],
     'prefer-template': 'error',
     quotes: [
       'error',
