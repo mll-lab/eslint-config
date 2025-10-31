@@ -42,7 +42,7 @@ module.exports = {
     'react/state-in-constructor': 'off',
     'react/static-property-placement': ['error', 'static public field'],
 
-    // Not always accurate, but should be explicitly ignored in order to not trash the log
+    // Not always accurate, but should be explicitly ignored to not trash the log
     'react-hooks/exhaustive-deps': 'error',
     'react-hooks/rules-of-hooks': 'error',
 
