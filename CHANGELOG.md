@@ -1,3 +1,10 @@
+## [3.4.1](https://github.com/mll-lab/eslint-config/compare/v3.4.0...v3.4.1) (2025-10-31)
+
+
+### Bug Fixes
+
+* shorten wordy comment ([9e50d05](https://github.com/mll-lab/eslint-config/commit/9e50d05cb7b2a5fdb145b2cd98273ff4dd33d68e))
+
 # [3.4.0](https://github.com/mll-lab/eslint-config/compare/v3.3.0...v3.4.0) (2025-06-23)
 
 
