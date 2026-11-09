@@ -1,3 +1,10 @@
+# [3.5.0](https://github.com/mll-lab/eslint-config/compare/v3.4.1...v3.5.0) (2026-11-09)
+
+
+### Features
+
+* enable prefer-nullish-coalescing ([#21](https://github.com/mll-lab/eslint-config/issues/21)) ([809cca9](https://github.com/mll-lab/eslint-config/commit/809cca9311c538db639d89a5de2b37f9164dd55e))
+
 ## [3.4.1](https://github.com/mll-lab/eslint-config/compare/v3.4.0...v3.4.1) (2025-10-31)
 
 
